@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditijain8&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijain8&layout=compact" />
+</p>
+
+
+
+
 <!--
 **aditijain8/aditijain8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
