@@ -1,7 +1,19 @@
-![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditijain8&show_icons=true&cache_seconds=1800)
+## Hi, I'm Aditi 👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditijain8&layout=compact&cache_seconds=1800)
+Software Engineering Intern @ **KPMG**  
+Computer Science Engineer | Problem Solver  
 
+🔧 **Tech Stack**
+- JavaScript, React, Node.js
+- MongoDB, SQL
+- C++, Git
+
+🌱 **Currently Learning**
+- Backend & System Design
+- Scalable Web Applications
+
+📫 **Connect**
+- LinkedIn: https://www.linkedin.com/in/aditi-jain-98509b24b/
 
 
 
