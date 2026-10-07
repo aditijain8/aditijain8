@@ -1,10 +1,10 @@
 ## Hi, I'm Aditi 👋
 
-Software Engineering Intern @ **KPMG**  
+Software Engineer @ **KPMG**  
 Computer Science Engineer | Problem Solver  
 
 🔧 **Tech Stack**
-- JavaScript, React, Node.js
+- Java, JavaScript, React, Node.js
 - MongoDB, SQL
 - C++, Git
 
